@@ -16,6 +16,8 @@ This bot was made with python and would change certain user name into a predefin
 This script was made in the runelite plugin. This plugin would calculate the damage between you and the boss. The damage you have taken and the damage you have dealt.
 After the fight is complete would caluclate the damage you have done and see if you're carrying your own weight.
 
+https://github.com/runelite
+
 ## Twitter Filter and listening
 
 This script was made for my school project. To see the a corrletion with bitcoin price and the amount of tweet. In the end of the project there wasn't a big correlation. 

@@ -2,7 +2,7 @@
 
 All the project I have created in the past
 
-## Capstone Project (Work in Progress)
+## Capstone Project
 
 Currently working on my capstone project for my capstone class. I am done with the project but still waiting for the class to end to mark it as complete.
 Description: An internal site that allows to keep records of appointments and send alert messages to patients
